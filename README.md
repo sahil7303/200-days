@@ -11,4 +11,8 @@ Day 3: Middle of LL
        Delete middle node of LL
        Reverse a DLL
        
-Day 4:
+## Day 4
+Detect loop in LL
+Find the starting node of loop in LL
+DP : Longest common subsequence
+Print Longest common subsequence
