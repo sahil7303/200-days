@@ -1,6 +1,6 @@
 # 200-days
-### day 1: 
-insertion and deletion of a node in doubly linked list
+### Day 1: 
+       insertion and deletion of a node in doubly linked list
 
 ### Day 2: Insertion and Deletion of a node in singly Linked List.
        Searching in singly Linked List
@@ -13,8 +13,9 @@ insertion and deletion of a node in doubly linked list
        Delete middle node of LL
        Reverse a DLL
        
-### Day 4
-Detect loop in LL
-Find the starting node of loop in LL
-DP : Longest common subsequence
-Print Longest common subsequence
+### Day 4:
+
+       Detect loop in LL
+       Find the starting node of loop in LL
+       DP : Longest common subsequence
+       Print Longest common subsequence
