@@ -19,3 +19,7 @@
        Find the starting node of loop in LL
        DP : Longest common subsequence
        Print Longest common subsequence
+
+### Day 5:
+       Sort linked list of 0s 1s 2s
+       Check if LL is Palindrome or not
