@@ -23,3 +23,7 @@
 ### Day 5:
        Sort linked list of 0s 1s 2s
        Check if LL is Palindrome or not
+
+### Day 6:
+       Implement stack using Linked List
+       Implement queue using Linked List
