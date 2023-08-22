@@ -28,3 +28,11 @@
        Implement stack using Linked List
        Implement queue using Linked List
        Implement Min Stack
+
+### Day 7:
+       Created Neural Network with MNIST dataset
+       Implemented Dropout Regularization
+       Implemented Batch Normalization
+
+       Indfix to Postfix using Stack
+       Unary Operators & Associativity
