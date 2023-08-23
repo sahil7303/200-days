@@ -36,3 +36,9 @@
 
        Indfix to Postfix using Stack
        Unary Operators & Associativity
+
+### Day 8:
+       Count Good Numbers
+       Postfix to Infix Conversion
+       Evaluation of Postfix
+       Infix to Prefix
