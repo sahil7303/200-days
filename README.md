@@ -44,3 +44,6 @@
        Infix to Prefix
        Nth Fibonacci Number
        Best Time to Buy and Sell Stock I
+
+### Day 9:
+       Trapping Rainwater
