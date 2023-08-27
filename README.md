@@ -49,6 +49,11 @@
        Trapping Rainwater
 
 ### Day 10:
+       Distance from Origin
+       Beautiful array Minimum sum
+       Introduction to Graphs
+
+### Day 10:
        Sliding Window Maximum
 
 ### Day 11:
