@@ -62,3 +62,12 @@
 
 ### Day 12:
        Representation of Graph(adjacency matrix & Adjacency list)
+
+### Day 13:
+       Maximum Node on Nth level
+       Preorder traversal of Binary Trees
+
+### Day 14
+       Inorder Traversal
+       Postorder Traversal
+       Height of Binary Tree
