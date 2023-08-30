@@ -66,8 +66,11 @@
 ### Day 13:
        Maximum Node on Nth level
        Preorder traversal of Binary Trees
+       Minimum in BST
 
 ### Day 14
        Inorder Traversal
        Postorder Traversal
        Height of Binary Tree
+       Search In BST
+       
