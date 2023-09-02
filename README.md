@@ -77,4 +77,10 @@
 ### Day 15:
        Iterative Preorder Traversal
        Level Order Traversal
+
+### Day 16:
+       Iteratievv Inorder Traversal
+       Check if Strings Can be Made Equal With Operations I
+       Check if Strings Can be Made Equal With Operations II
+       
        
