@@ -85,5 +85,12 @@
 
 ### Day 17:
        Breadth First Search
+       Depth First Search
+
+### Day 18:
+       Pascal's Triangle
+       Number of Provinces(through DFS and BFS)
+
+
        
        
