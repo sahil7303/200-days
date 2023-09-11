@@ -109,6 +109,9 @@
 ### Day 23:
        Check Bipartite Graph
 
+### Day 24
+       Detect Cycle in Directed Graph
+
 
        
        
