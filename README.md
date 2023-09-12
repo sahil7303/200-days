@@ -113,7 +113,9 @@
        Detect Cycle in Directed Graph
 
 ### Day 25:
-       Topological Sorting(using DFS)
+       Topological Sorting
+       Kahn's Algorithm(Topological sorting)
+       
 
        
        
