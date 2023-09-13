@@ -115,6 +115,9 @@
 ### Day 25:
        Topological Sorting
        Kahn's Algorithm(Topological sorting)
+
+### Day 26:
+       Love Triangle(graph)
        
 
        
