@@ -118,6 +118,7 @@
 
 ### Day 26:
        Love Triangle(graph)
+       Safe Nodes in a Graph(Dfs and Kahn's algorithm)
        
 
        
