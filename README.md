@@ -119,6 +119,12 @@
 ### Day 26:
        Love Triangle(graph)
        Safe Nodes in a Graph(Dfs and Kahn's algorithm)
+
+### Day 27:
+       Is BST Valid
+       Generate Binary strings with no consecutive 1s
+       Course Schedule I
+       Course Schedule II
        
 
        
