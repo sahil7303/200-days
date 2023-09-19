@@ -136,6 +136,9 @@
 ### Day 30:
        Dijkstra's Algorithm using Set
        Shortest Path in Binary Maze
+
+### Day 31:
+       Path with Minimum Effort
        
 
        
