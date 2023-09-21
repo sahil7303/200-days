@@ -139,6 +139,9 @@
 
 ### Day 31:
        Path with Minimum Effort
+
+### Day 32
+       Print all Subsequences/Power Set
        
 
        
