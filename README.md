@@ -142,6 +142,10 @@
 
 ### Day 32
        Print all Subsequences/Power Set
+
+### Day 33:
+       Pow(x,n) (logarithmic exponentiation)
+       Generate all Parenthesis
        
 
        
