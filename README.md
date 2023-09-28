@@ -146,7 +146,10 @@
 ### Day 33:
        Pow(x,n) (logarithmic exponentiation)
        Generate all Parenthesis
-       
+
+### Day 34:
+       Combination Sum
+       Length of Cycle in Graph
 
        
        
