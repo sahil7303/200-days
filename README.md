@@ -154,5 +154,10 @@
 ### Day 35:
        Solved 5 questions at Hack-On
 
+### Day 36:
+       Divisible and Non-divisible Sums Difference
+       Minimum Processing Time
+       Combination Sum 2
+
        
        
