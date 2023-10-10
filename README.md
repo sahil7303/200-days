@@ -159,5 +159,12 @@
        Minimum Processing Time
        Combination Sum 2
 
+### Day 37:
+       SubArray with Sum K
+
+### Day 38
+       Subset Sum 1
+       Check if there exists a subsequence with sum K
+
        
        
