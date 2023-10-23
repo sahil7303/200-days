@@ -167,5 +167,10 @@
        Check if there exists a subsequence with sum K
        Letter Combinations of Phone Number
 
+### Day 39
+       Minimum Sum of Mountain Triplets I
+       Minimum Sum of Mountain Triplets II
+       
+
        
        
