@@ -170,6 +170,23 @@
 ### Day 39
        Minimum Sum of Mountain Triplets I
        Minimum Sum of Mountain Triplets II
+
+### Day 40
+       Introduction to Bit Manipulation
+       Check if the i-th bit is set or not
+       Check if a number is odd or not
+       Check if a number is power of 2 or not
+
+### Day 41
+       Set/Unset the rightmost unset bit
+       Swap two numbers using bit manipulation
+       Count number of bits to be flipped 
+       Find the number that appears odd no. of times
+       Find xor of numbers from 1 to N
+       Find xor of numbers from L to R
+       
+       
+       
        
 
        
