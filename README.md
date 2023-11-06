@@ -184,6 +184,9 @@
        Find the number that appears odd no. of times
        Find xor of numbers from 1 to N
        Find xor of numbers from L to R
+
+### Day 42
+       Power Set using Bit Manipulation
        
        
        
