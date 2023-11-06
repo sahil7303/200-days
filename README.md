@@ -187,6 +187,10 @@
 
 ### Day 42
        Power Set using Bit Manipulation
+
+### Day 43
+       Peter and Combination Lock
+       Implement Set DS using bitmasking
        
        
        
