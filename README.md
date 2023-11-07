@@ -191,6 +191,9 @@
 ### Day 43
        Peter and Combination Lock
        Implement Set DS using bitmasking
+
+### Day 44
+       Implemented Union By Rank (Disjoint Set)
        
        
        
