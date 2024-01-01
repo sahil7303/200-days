@@ -198,6 +198,10 @@
 ### Day 45
        Cheapest Flights within K stops
        Monsters(CSES)
+
+### Day 46
+       Minimum Multiplications to Reach End
+       Minimum Ways to arrive at Destination
        
        
        
