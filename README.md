@@ -202,6 +202,11 @@
 ### Day 46
        Minimum Multiplications to Reach End
        Minimum Ways to arrive at Destination
+
+### Day 47
+       Creation of Heap
+       Deletion in Heap
+       Heap Sort
        
        
        
