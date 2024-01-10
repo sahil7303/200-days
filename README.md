@@ -212,6 +212,9 @@
        Heapify algorithm
        Convert Min Heap to Max Heap
        K largest elements
+
+### Day 49
+       Replace each element by its Rank
        
        
        
