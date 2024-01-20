@@ -232,6 +232,11 @@
 
 ### Day 53
        Find Median
+
+### Day 54
+       Contest Questions
+       3010. Divide an Array Into Subarrays With Minimum Cost I
+       3011. Find if Array Can Be Sorted
        
        
        
