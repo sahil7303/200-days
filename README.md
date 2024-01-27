@@ -253,6 +253,9 @@
 ### Day 58
        Check if the Binary Tree is Balanced Binary Tree
        Diameter of Binary Tree
+       Maximum Path Sum
+       Print All Root to Leaf Paths In Binary Tree
+       
        
 
        
