@@ -249,6 +249,10 @@
 ### Day 57
        Post Order Traversal using 2 Stacks
        Post Order Traversal using 1 Stack
+
+### Day 58
+       Check if the Binary Tree is Balanced Binary Tree
+       Diameter of Binary Tree
        
 
        
