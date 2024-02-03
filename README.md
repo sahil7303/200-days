@@ -273,6 +273,8 @@
 
 ### Day 63
        LCA in a Binary Tree
+       3024. Type of Triangle II
+       3026. Maximum Good Subarray Sum
        
 
        
