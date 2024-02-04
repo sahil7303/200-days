@@ -279,7 +279,7 @@
 
 ### Day 64
        3028. Ant on the Boundary
-3030. [Find the Grid of Region Average](https://leetcode.com/contest/weekly-contest-383/problems/find-the-grid-of-region-average/)
+3030. [Find the Grid of Region Average]([https://leetcode.com/contest/weekly-contest-383/problems/find-the-grid-of-region-average/](https://leetcode.com/problems/find-the-grid-of-region-average/submissions/1166062125/))
        
 [link](https://leetcode.com/contest/weekly-contest-383/problems/find-the-grid-of-region-average/)
        
