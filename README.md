@@ -276,6 +276,10 @@
        3024. Type of Triangle II
        3026. Maximum Good Subarray Sum
        Maximum width of a Binary Tree
+
+### Day 64
+       3028. Ant on the Boundary
+       3030. Find the Grid of Region Average
        
 
        
