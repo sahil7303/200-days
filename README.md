@@ -281,5 +281,10 @@
        3028. [Ant on the Boundary](https://leetcode.com/contest/weekly-contest-383/problems/ant-on-the-boundary/)
 3030. [Find the Grid of Region Average](https://leetcode.com/problems/find-the-grid-of-region-average/submissions/1166062125/)
 
+### Day 65
+       Z-algorithm (Linear time pattern searching Algorithm)
+       3029. Minimum Time to Revert Word to Initial State I
+       3031. Minimum Time to Revert Word to Initial State II
+       
        
        
