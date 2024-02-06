@@ -285,6 +285,9 @@
        Z-algorithm (Linear time pattern searching Algorithm)
        3029. Minimum Time to Revert Word to Initial State I
        3031. Minimum Time to Revert Word to Initial State II
+
+### Day 66
+       Children Sum Property
        
        
        
