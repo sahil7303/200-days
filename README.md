@@ -288,6 +288,7 @@
 
 ### Day 66
        Children Sum Property
+       Count total Nodes in a COMPLETE Binary Tree in O(Log^2 N)
        
        
        
