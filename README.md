@@ -290,6 +290,9 @@
        Children Sum Property
        Count total Nodes in a COMPLETE Binary Tree in O(Log^2 N)
        Print Nodes at Distance K From a Given Node
+
+### Day 67
+       Time To Burn Tree
        
        
        
