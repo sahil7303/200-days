@@ -299,7 +299,11 @@
 
 ### Day 69
        Sum of Subarray Minimums
-       Subarray Range Sum
+       Subarray Range Sum'
+
+### Day 70
+       3033. Modify the Matrix
+       3034. Number of Subarrays That Match a Pattern I
        
        
        
