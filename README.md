@@ -304,6 +304,7 @@
 ### Day 70
        3033. Modify the Matrix
        3034. Number of Subarrays That Match a Pattern I
+       3035. Maximum Palindromes After Operations (CONCEPT:ANAGRAM(revisit))
        
        
        
