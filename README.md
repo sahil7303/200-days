@@ -309,6 +309,7 @@
 ### Day 71
        3036. Number of Subarrays That Match a Pattern II(Hard)(String Matching Algo)
        Count All Subarrays With Given Sum
+       Remove K Digits
        
        
        
