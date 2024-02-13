@@ -315,6 +315,7 @@
        Count Of Greater Elements To The Right
        Maximum Size Rectangle Sub-matrix With All 1's
        Traffic(Maximum Consecutive 1's)
+       Stock Span
        
        
        
