@@ -316,6 +316,8 @@
        Maximum Size Rectangle Sub-matrix With All 1's
        Traffic(Maximum Consecutive 1's)
        Stock Span
-       
+
+### Day 73
+       The Celebrity Problem
        
        
