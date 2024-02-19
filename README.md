@@ -328,6 +328,7 @@
 
 ### Day 75
        3042. Count Prefix and Suffix Pairs I
+       3043. Find the Length of the Longest Common Prefix
 
        
        
