@@ -326,5 +326,8 @@
        235. Lowest Common Ancestor of a Binary Search Tree
        Kth Smallest element in BST
 
+### Day 75
+       3042. Count Prefix and Suffix Pairs I
+
        
        
