@@ -330,5 +330,10 @@
        3042. Count Prefix and Suffix Pairs I
        3043. Find the Length of the Longest Common Prefix
 
+### Day 76
+       String Hashing Algorithm
+       Rabin-Karp String Matching Algorithm
+       3045. Count Prefix and Suffix Pairs II (hard)
+
        
        
