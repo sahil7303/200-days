@@ -335,5 +335,8 @@
        Rabin-Karp String Matching Algorithm
        3045. Count Prefix and Suffix Pairs II (hard)
 
+### Day 77
+       3044. Most Frequent Prime
+
        
        
