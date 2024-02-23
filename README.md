@@ -338,5 +338,9 @@
 ### Day 77
        3044. Most Frequent Prime
 
+### Day 78
+       3038. Maximum Number of Operations With the Same Score I
+       
+
        
        
