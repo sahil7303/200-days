@@ -341,6 +341,10 @@
 ### Day 78
        3038. Maximum Number of Operations With the Same Score I
        3039. Apply Operations to Make String Empty
+
+### Day 79
+       3069. Distribute Elements Into Two Arrays I
+       3070. Count Submatrices with Top-Left Element and Sum Less Than k
        
 
        
