@@ -345,6 +345,12 @@
 ### Day 79
        3069. Distribute Elements Into Two Arrays I
        3070. Count Submatrices with Top-Left Element and Sum Less Than k
+
+### Day 80
+       3074. Apple Redistribution into Boxes
+       3075. Maximize Happiness of Selected Children
+       3076. Shortest Uncommon Substring in an Array
+       
        
 
        
