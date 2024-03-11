@@ -350,6 +350,9 @@
        3074. Apple Redistribution into Boxes
        3075. Maximize Happiness of Selected Children
        3076. Shortest Uncommon Substring in an Array
+
+### Day 81
+       Frog Jump
        
        
 
