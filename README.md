@@ -352,8 +352,11 @@
        3076. Shortest Uncommon Substring in an Array
 
 ### Day 81
-       Frog Jump
+       Frog Jump       
+
+### Day 82
        Frog Jump with K-distances
+       Maximum Sum of Non Adjacent elements
        
        
 
