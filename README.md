@@ -360,5 +360,7 @@
 
 ### Day 83
        House Robber(circular)
-       
+
+### Day 84
+       Ninja’s Training(Dp on Grids)       
        
