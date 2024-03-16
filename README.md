@@ -366,4 +366,6 @@
 
 ### Day 85
        Unique Paths in Grid
+       3079. Find the Sum of Encrypted Integers
+       3081. Replace Question Marks in String to Minimize Its Value
        
