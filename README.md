@@ -368,4 +368,9 @@
        Unique Paths in Grid
        3079. Find the Sum of Encrypted Integers
        3081. Replace Question Marks in String to Minimize Its Value
+
+### Day 86
+       3083. Existence of a Substring in a String and Its Reverse
+       3084. Count Substrings Starting and Ending with Given Character
+       100255. Minimum Deletions to Make String K-Special
        
