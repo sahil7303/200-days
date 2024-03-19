@@ -373,4 +373,7 @@
        3083. Existence of a Substring in a String and Its Reverse
        3084. Count Substrings Starting and Ending with Given Character
        100255. Minimum Deletions to Make String K-Special
+
+### Day 87
+       Unique Paths II with obstacles
        
