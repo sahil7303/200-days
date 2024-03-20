@@ -379,3 +379,4 @@
 
 ### Day 88
        Minimum path sum in Grid
+       Minimum path sum in Triangular Grid
