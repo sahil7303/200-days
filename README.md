@@ -380,3 +380,10 @@
 ### Day 88
        Minimum path sum in Grid
        Minimum path sum in Triangular Grid
+
+### Day 89
+       Maximum Falling Path sum
+
+### Day 90
+       3090. Maximum Length Substring With Two Occurrences
+       3091. Apply Operations to Make Sum of Array Greater Than or Equal to k
