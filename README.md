@@ -387,3 +387,8 @@
 ### Day 90
        3090. Maximum Length Substring With Two Occurrences
        3091. Apply Operations to Make Sum of Array Greater Than or Equal to k
+
+### Day 91
+       100263. Harshad Number
+       100235. Water Bottles II
+       100266. Count Alternating Subarrays
