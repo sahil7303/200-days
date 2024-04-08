@@ -398,3 +398,6 @@
 
 ### Day 93
        Subset sum equal to target (Memoiozaiton / Tabulation)
+
+### Day 94
+       Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)
