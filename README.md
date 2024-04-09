@@ -401,3 +401,6 @@
 
 ### Day 94
        Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)
+
+### Day 95
+       Counts Subsets with Sum K 
