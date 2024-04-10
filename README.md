@@ -404,3 +404,6 @@
 
 ### Day 95
        Counts Subsets with Sum K 
+
+### Day 96
+       Count Partition with given difference
