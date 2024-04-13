@@ -414,3 +414,6 @@
 ### Day 98
        Minimum Coins to Reach Target
        Target Sum(DP 21)
+
+### Day 99
+       Number of ways to Make Coin Change
