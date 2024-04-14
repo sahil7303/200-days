@@ -417,3 +417,8 @@
 
 ### Day 99
        Number of ways to Make Coin Change
+
+### Day 100
+       Unbounded Knapsack
+       3114. Latest Time You Can Obtain After Replacing Characters
+       3115. Maximum Prime Difference
