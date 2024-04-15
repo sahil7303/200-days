@@ -422,3 +422,6 @@
        Unbounded Knapsack
        3114. Latest Time You Can Obtain After Replacing Characters
        3115. Maximum Prime Difference
+
+### Day 101
+       Rod Cutting Problem
