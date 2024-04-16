@@ -425,3 +425,7 @@
 
 ### Day 101
        Rod Cutting Problem
+
+### Day 102
+       Longest Common Subsequence
+       Print Longest Common Subsequence
