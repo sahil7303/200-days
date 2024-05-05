@@ -464,5 +464,6 @@
        3136. Valid Word
        3137. Minimum Number of Operations to Make Word K-Periodic
        3138. Minimum Length of Anagram Concatenation
+       242. Valid Anagram
        
        
