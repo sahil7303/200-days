@@ -459,5 +459,10 @@
 ### Day 110
        Buy and Sell Stocks With Transaction Fee
        Buy and Sell Stocks With Cooldown
+
+### Day 111
+       3136. Valid Word
+       3137. Minimum Number of Operations to Make Word K-Periodic
+       3138. Minimum Length of Anagram Concatenation
        
        
