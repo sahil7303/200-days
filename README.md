@@ -466,5 +466,8 @@
        3138. Minimum Length of Anagram Concatenation
        242. Valid Anagram
        Check whether one string is a rotation of another
+
+### Day 112
+       Longest Increasing Subsequence
        
        
