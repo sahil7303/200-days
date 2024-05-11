@@ -472,5 +472,9 @@
 
 ### Day 113
        Print LIS
+
+### Day 114
+       Find Single element in sorted array
+       162. Find Peak Element
        
        
