@@ -476,5 +476,10 @@
 ### Day 114
        Find Single element in sorted array
        162. Find Peak Element
+
+### Day 115
+       3146. Permutation Difference between Two Strings
+       3147. Taking Maximum Energy From the Mystic Dungeon
+       3148. Maximum Difference Score in a Grid
        
        
