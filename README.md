@@ -499,6 +499,11 @@
 
 ### Day 120
        Divide two Integers(bit manipulation)
+
+### Day 121
+       Check Prime in O(sqrt(n))
+       Print All Divisors of a Number
+       Print prime factors of a number
        
        
        
