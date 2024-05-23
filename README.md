@@ -504,6 +504,10 @@
        Check Prime in O(sqrt(n))
        Print All Divisors of a Number
        Print prime factors of a number
+
+### Day 122
+       Aggressive Cows
+       Sum of Minimum Subarrays
        
        
        
