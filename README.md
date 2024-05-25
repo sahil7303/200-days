@@ -511,6 +511,9 @@
 
 ### Day 123
        Kth element of 2 sorted arrays
+
+### Day 124
+       Count Prime using Sieve of Eratosthenes
        
        
        
