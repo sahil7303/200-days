@@ -515,6 +515,9 @@
 ### Day 124
        Count Prime using Sieve of Eratosthenes
        Find Prime Factorisation of a Number using Sieve
+       3158. Find the XOR of Numbers Which Appear Twice
+       3159. Find Occurrences of an Element in an Array
+       3160. Find the Number of Distinct Colors Among the Balls
        
        
        
