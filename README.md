@@ -518,6 +518,10 @@
        3158. Find the XOR of Numbers Which Appear Twice
        3159. Find Occurrences of an Element in an Array
        3160. Find the Number of Distinct Colors Among the Balls
+
+### Day 125
+       3162. Find the Number of Good Pairs I
+       3163. String Compression III
        
        
        
