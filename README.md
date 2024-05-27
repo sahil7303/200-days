@@ -522,6 +522,9 @@
 ### Day 125
        3162. Find the Number of Good Pairs I
        3163. String Compression III
+
+### Day 126
+       3164. Find the Number of Good Pairs II
        
        
        
