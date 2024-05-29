@@ -526,6 +526,9 @@
 ### Day 126
        3164. Find the Number of Good Pairs II
        Matrix Chain Multiplication
+
+### Day 127
+       673. Number of Longest Increasing Subsequence
        
        
        
