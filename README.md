@@ -532,6 +532,8 @@
 
 ### Day 128
        Convert Decimal string to Hexadecimal
+       In Place Run-Length_Encoding algorithm
+       Convert IP address to unsigned integer
 
 ### Day 129
        61. Rotate List by K times
