@@ -529,6 +529,11 @@
 
 ### Day 127
        673. Number of Longest Increasing Subsequence
-       
+
+### Day 128
+       Convert Decimal string to Hexadecimal
+
+### Day 129
+       61. Rotate List by K times
        
        
