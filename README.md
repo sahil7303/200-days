@@ -537,5 +537,11 @@
 
 ### Day 129
        61. Rotate List by K times
-       
+
+### Day 130
+       Convert Binary Linked List into Decimal number
+
+### Day 131
+       3168. Minimum Number of Chairs in a Waiting Room
+       3169. Count Days Without Meetings
        
