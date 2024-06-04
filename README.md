@@ -548,3 +548,4 @@
 ### Day 132
        Inorder Traversal is BST or Not
        Insert a Node into a BST
+       Ceil in a BST
