@@ -544,4 +544,6 @@
 ### Day 131
        3168. Minimum Number of Chairs in a Waiting Room
        3169. Count Days Without Meetings
-       
+
+### Day 132
+       Inorder Traversal is BST or Not
