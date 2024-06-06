@@ -555,3 +555,6 @@
        Delete a Node in BST
        Construct a BST from a preorder traversal
        98. Validate Binary Search Tree
+
+### Day 134
+       1922. Count Good Numbers
