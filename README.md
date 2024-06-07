@@ -563,5 +563,7 @@
 
 ### Day 135
        904. Fruit Into Baskets
+       560. Subarray Sum Equals K
+       930. Binary Subarrays With Sum
        
        
