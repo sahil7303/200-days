@@ -565,5 +565,10 @@
        904. Fruit Into Baskets
        560. Subarray Sum Equals K
        930. Binary Subarrays With Sum
+
+### Day 136
+       3174. Clear Digits
+       3175. Find The First Player to win K Games in a Row
+       3176. Find the Maximum Length of a Good Subsequence I
        
        
