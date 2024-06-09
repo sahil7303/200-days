@@ -575,5 +575,8 @@
        100325. Find the Child Who Has the Ball After K Seconds
        100305. Find the N-th Value After K Seconds
        100319. Maximum Total Reward Using Operations I
+       N meetings in one room
+       160. Intersection of Two Linked Lists
+       455. Assign Cookies
        
        
