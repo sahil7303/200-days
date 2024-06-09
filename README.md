@@ -570,5 +570,10 @@
        3174. Clear Digits
        3175. Find The First Player to win K Games in a Row
        3176. Find the Maximum Length of a Good Subsequence I
+
+### Day 137
+       100325. Find the Child Who Has the Ball After K Seconds
+       100305. Find the N-th Value After K Seconds
+       100319. Maximum Total Reward Using Operations I
        
        
