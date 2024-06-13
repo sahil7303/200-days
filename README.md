@@ -588,4 +588,7 @@
 ### Day 139
        1248. Count Number of Nice Subarrays
        Does array represent maxHeap
-       
+
+
+### Day 140
+       860. Lemonade Change
