@@ -598,3 +598,6 @@
 ### Day 141
        105. Construct Binary Tree from Preorder and Inorder Traversal
        Minimum number of platforms required for a railway
+
+### Day 142
+       99. Recover Binary Search Tree
