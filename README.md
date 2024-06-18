@@ -607,3 +607,7 @@
        3184. Count Pairs That Form a Complete Day I
        3185. Count Pairs That Form a Complete Day II
        3186. Maximum Total Damage With Spell Casting
+
+### Day 144
+       Bellman-Ford Algorithm
+       Floyd-Warshall Algorithm
