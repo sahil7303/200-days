@@ -611,3 +611,6 @@
 ### Day 144
        Bellman-Ford Algorithm
        Floyd-Warshall Algorithm
+
+### Day 145
+       Prim's Algorithm
