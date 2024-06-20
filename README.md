@@ -615,3 +615,6 @@
 ### Day 145
        Prim's Algorithm
        1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+
+### Day 146
+       1358. Number of Substrings Containing All Three Characters
