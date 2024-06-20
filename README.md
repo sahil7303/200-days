@@ -618,3 +618,5 @@
 
 ### Day 146
        1358. Number of Substrings Containing All Three Characters
+       57. Insert Interval
+       Page Faults in LRU
