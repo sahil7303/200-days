@@ -623,3 +623,4 @@
 
 ### Day 147
        Disjoint Sets(Union By Rank, Union By Size)
+       Kruskal's Algiritm
