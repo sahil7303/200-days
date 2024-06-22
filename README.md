@@ -626,3 +626,6 @@
        Kruskal's Algiritm
        1319. Number of Operations to Make Network Connected
        Longest K Unique Characters Substring
+       100344. Minimum Operations to Make Binary Array Elements Equal to One I
+       100345. Find Minimum Operations to Make All Elements Divisible by Three
+       100346. Minimum Operations to Make Binary Array Elements Equal to One II
