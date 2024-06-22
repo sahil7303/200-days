@@ -624,3 +624,4 @@
 ### Day 147
        Disjoint Sets(Union By Rank, Union By Size)
        Kruskal's Algiritm
+       1319. Number of Operations to Make Network Connected
