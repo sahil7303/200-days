@@ -629,3 +629,8 @@
        100344. Minimum Operations to Make Binary Array Elements Equal to One I
        100345. Find Minimum Operations to Make All Elements Divisible by Three
        100346. Minimum Operations to Make Binary Array Elements Equal to One II
+
+### Day 150
+       100342. Minimum Average of Smallest and Largest Elements
+       100334. Find the Minimum Area to Cover All Ones I
+       100337. Maximize Total Cost of Alternating Subarrays
