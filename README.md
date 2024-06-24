@@ -634,3 +634,6 @@
        100342. Minimum Average of Smallest and Largest Elements
        100334. Find the Minimum Area to Cover All Ones I
        100337. Maximize Total Cost of Alternating Subarrays
+
+### Day 151
+       1423. Maximum Points You Can Obtain from Cards
