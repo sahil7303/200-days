@@ -644,3 +644,8 @@
 
 ### Day 153
        721. Accounts Merge
+
+### Day 154
+       100339. Find the Encrypted String
+       100328. Generate Binary Strings Without Adjacent Zeros
+       100359. Count Submatrices With Equal Frequency of X and Y
