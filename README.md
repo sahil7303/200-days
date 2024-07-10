@@ -654,3 +654,9 @@
        135. Candy
        435. Non-overlapping Intervals
        131. Palindrome Partitioning
+
+### Day 156
+       1701. Average Waiting Time
+       79. Word Search
+       139. Word Break
+       140. Word Break II
