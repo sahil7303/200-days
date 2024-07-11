@@ -660,3 +660,7 @@
        79. Word Search
        139. Word Break
        140. Word Break II
+
+### Day 157
+       743. Network Delay Time
+       51. N-Queens
