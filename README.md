@@ -664,3 +664,6 @@
 ### Day 157
        743. Network Delay Time
        51. N-Queens
+
+### Day 158
+       424. Longest Repeating Character Replacement
