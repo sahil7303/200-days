@@ -677,3 +677,4 @@
        557. Reverse Words in a String III
        451. Sort Characters By Frequency
        Lambda Function(concept)
+       1781. Sum of Beauty of All Substrings
