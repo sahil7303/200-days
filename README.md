@@ -680,3 +680,9 @@
        1781. Sum of Beauty of All Substrings
        13. Roman to Integer
        1614. Maximum Nesting Depth of the Parentheses
+
+###  Day 160
+       3216. Lexicographically Smallest String After a Swap
+       3217. Delete Nodes From Linked List Present in Array
+       3218. Minimum Cost for Cutting Cake I
+       3219. Minimum Cost for Cutting Cake II
