@@ -686,3 +686,6 @@
        3217. Delete Nodes From Linked List Present in Array
        3218. Minimum Cost for Cutting Cake I
        3219. Minimum Cost for Cutting Cake II
+
+### Day 161
+       992. Subarrays with K Different Integers
