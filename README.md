@@ -691,3 +691,7 @@
        992. Subarrays with K Different Integers
        Count no. of substrings with K Distinct Characters
        Count Nodes with No Siblings
+
+### Day 162
+       5. Longest Palindromic Substring [without DP]
+       8. String to Integer (atoi)
