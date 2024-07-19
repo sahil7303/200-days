@@ -701,3 +701,8 @@
        76. Minimum Window Substring
        38. Count and Say
        1. Two Sum
+
+### Day 164
+       Leaders in an Array
+       169. Majority Element
+       75. Sort Colors
