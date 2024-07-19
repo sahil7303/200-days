@@ -706,3 +706,4 @@
        Leaders in an Array
        169. Majority Element
        75. Sort Colors
+       22. Generate Parentheses
