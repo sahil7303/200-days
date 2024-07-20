@@ -707,3 +707,7 @@
        169. Majority Element
        75. Sort Colors
        22. Generate Parentheses
+
+### Day 165
+       100375. Find the Winning Player in Coin Game
+       100365. Minimum Array Changes to Make Differences Equal
