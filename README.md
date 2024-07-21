@@ -711,3 +711,8 @@
 ### Day 165
        100375. Find the Winning Player in Coin Game
        100365. Minimum Array Changes to Make Differences Equal
+
+### Day 166
+       // 3226. Number of Bit Changes to Make Two Integers Equal
+       // 3227. Vowels Game in a String
+       // 100360. Maximum Number of Operations to Move Ones to the End
