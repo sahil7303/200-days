@@ -721,3 +721,4 @@
 
 ### Day 167
        3229. Minimum Operations to Make Array Equal to Target
+       1526. Minimum Number of Increments on Subarrays to Form a Target Array
