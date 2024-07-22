@@ -718,3 +718,6 @@
        100360. Maximum Number of Operations to Move Ones to the End
        287. Find the Duplicate Number
        12. Integer to Roman
+
+### Day 167
+       3229. Minimum Operations to Make Array Equal to Target
