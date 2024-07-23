@@ -705,7 +705,7 @@
 ### Day 164
        Leaders in an Array
        169. Majority Element
-       75. Sort Colors
+       75. Sort Colors (Sort 0's, 1's and 2's )
        22. Generate Parentheses
 
 ### Day 165
@@ -722,3 +722,6 @@
 ### Day 167
        3229. Minimum Operations to Make Array Equal to Target
        1526. Minimum Number of Increments on Subarrays to Form a Target Array
+
+### Day 168
+       53. Maximum Subarray(Kadane's Algorithm)
