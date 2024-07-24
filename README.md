@@ -727,4 +727,10 @@
        53. Maximum Subarray(Kadane's Algorithm)
        Print subarray having Maximum Sum
        2149. Rearrange Array Elements by Sign
+
+### Day 169
+       148. Sort List
+       A. Only Pluses
+       B. Angry Monk
+       C. Gorilla and Permutation
        
