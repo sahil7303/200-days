@@ -762,4 +762,5 @@
        Subarray with given Xor
        3238. Find the Number of Winning Players
        3239. Minimum Number of Flips to Make Binary Grid Palindromic I
+       104. Maximum Depth of Binary Tree
        
