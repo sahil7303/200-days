@@ -769,4 +769,5 @@
        3242. Design Neighbor Sum Service
        3243. Shortest Distance After Road Addition Queries I
        3244. Shortest Distance After Road Addition Queries II
+       3240. Minimum Number of Flips to Make Binary Grid Palindromic II
        
