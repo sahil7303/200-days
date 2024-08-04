@@ -762,5 +762,11 @@
        Subarray with given Xor
        3238. Find the Number of Winning Players
        3239. Minimum Number of Flips to Make Binary Grid Palindromic I
+       
+
+### Day 177
        104. Maximum Depth of Binary Tree
+       3242. Design Neighbor Sum Service
+       3243. Shortest Distance After Road Addition Queries I
+       3244. Shortest Distance After Road Addition Queries II
        
